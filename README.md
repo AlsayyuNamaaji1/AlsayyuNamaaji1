@@ -11,7 +11,6 @@ __bold__
 
 _italic_
 
-```markdown
  |alsayyu|namaaji|
  |-----|-----|-----
 
