@@ -11,8 +11,7 @@ __bold__
 
 _italic_
 
- |alsayyu|namaaji|
- |-----|-----|-----
+_wow a good journey with ArewaDS _
 
 <!---
 AlsayyuNamaaji1/AlsayyuNamaaji1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
