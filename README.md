@@ -9,7 +9,8 @@ I'm a fellow of @Arewads for python programming.
 for bold
 __bold__
 
-**item 1
+*item 1
+*item 2
 
 <!---
 AlsayyuNamaaji1/AlsayyuNamaaji1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
