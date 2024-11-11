@@ -1,5 +1,5 @@
 # HELLO EVERYONE
-_👋 Hi, my names is Abubakar sadiq Nama'aji also known as alsayyu.
+ my names is Abubakar sadiq Nama'aji also known as alsayyu.
 I'm a fellow of @Arewads for python programming.
 
 # heading 1
