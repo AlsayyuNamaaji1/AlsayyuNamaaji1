@@ -7,6 +7,10 @@ I'm a fellow of @Arewads for python programming.And C.E.O of sayyid Nama'aji gra
 ### heading 3
 #### heading 4
 
+# unordered list 
+  -item 1
+  -item 2
+
 for bold
 __bold__
 
