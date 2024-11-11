@@ -1,4 +1,4 @@
-# HELLO EVERYONE
+# HELLO EVERYONE👋
  my names is Abubakar sadiq Nama'aji also known as alsayyu.
 I'm a fellow of @Arewads for python programming.
 
