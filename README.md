@@ -1,6 +1,6 @@
 # HELLO EVERYONE👋
  my names is Abubakar sadiq Nama'aji also known as alsayyu.
-I'm a fellow of @Arewads for python programming.
+I'm a fellow of @Arewads for python programming.And C.E.O of sayyid Nama'aji graphics.
 
 # heading 1
 ## heading 2
