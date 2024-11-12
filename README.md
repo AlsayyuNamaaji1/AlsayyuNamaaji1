@@ -14,7 +14,7 @@ I'm a fellow of [Arewa Data Sciencea academy](https://arewadatascience.github.io
 - item 5
 
 ## BOLD
-** this text is bolded **
+**this text is bolded**
 __bold__
 _italic_
 
