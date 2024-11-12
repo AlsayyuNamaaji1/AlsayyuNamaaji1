@@ -14,9 +14,9 @@ I'm a fellow of [Arewa Data Sciencea academy](https://arewadatascience.github.io
 - item 5
 
 ### __ordered list__
-1.item 2
-2.item 2
-3.item 3
+1. item 2
+2. item 2
+3. item 3
 
 |column1 |column2 | column3|
 |-----|-----|-----|
