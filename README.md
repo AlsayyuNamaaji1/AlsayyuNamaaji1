@@ -15,6 +15,8 @@ I'm a fellow of [Arewa Data Sciencea academy](https://arewadatascience.github.io
 
 |column1 |column2 | column3|
 |-----|-----|-----|
+|column1 |column2 | column3|
+|-----|-----|-----|
 
 ## BOLD
 **this text is bolded**
