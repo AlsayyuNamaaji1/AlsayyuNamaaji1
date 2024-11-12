@@ -6,7 +6,7 @@ I'm a fellow of [Arewa Data Sciencea academy](https://arewadatascience.github.io
 ### heading 3
 #### heading 4
 
-#### unordered list 
+### __unordered list__ 
 - item 1
 - item 2
 - item 3
@@ -15,7 +15,6 @@ I'm a fellow of [Arewa Data Sciencea academy](https://arewadatascience.github.io
 
 for bold
 __bold__
-
 _italic_
 
 _wow a good journey with ArewaDS_
