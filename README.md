@@ -23,6 +23,7 @@ I'm a fellow of [Arewa Data Sciencea academy](https://arewadatascience.github.io
 |column1 |column2 | column3|
 |day 1 | day 2 | day 3|
 
+
 ## BOLD
 **this text is bolded**
 
