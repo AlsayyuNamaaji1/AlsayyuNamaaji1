@@ -8,7 +8,11 @@ I'm a fellow of [Arewa Data Sciencea academy](https://arewadatascience.github.io
 
 ### __unordered list__ 
 - item 1
+  - nested 1
+  - nested 2
 - item 2
+  - nested 1
+  - nested 2
 - item 3
 - item 4
 - item 5
