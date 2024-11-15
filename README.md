@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="assets/arewadsimage.png" alt="ArewaDS Python for Beginners - Cohort 3.0">
+</p>
+
+<p align="center">
+
 ## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abubakar sadiq Nama'aji.
 I'm a fellow of [Arewa Data Sciencea academy](https://arewadatascience.github.io/).And C.E.O of [sayyid Nama'aji graphics](https://www.instagram.com/sayyid_namaaji_graphics?igsh=MXFvazk1N3E0aXM4MQ==). and I'm here to learn
 
