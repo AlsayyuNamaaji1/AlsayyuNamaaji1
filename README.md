@@ -30,6 +30,8 @@ I'm a fellow of [Arewa Data Sciencea academy](https://arewadatascience.github.io
 __bold__
 _italic_
 
+### you can contact me through:-
+
 _wow a good journey with ArewaDS_
 
 <!---
