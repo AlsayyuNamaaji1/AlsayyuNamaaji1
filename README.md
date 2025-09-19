@@ -8,7 +8,7 @@ I am currently a fellow of ArewaDS
 
 * 🌍  I'm based in Kano,Nigeria
 * ✉️  You can contact me at [namaajiabubakarsadiq@gmail.com](mailto:namaajiabubakarsadiq@gmail.com)
-* 🧠  I'm learner
+* 🧠  I'm a learner
 ### Skills
 
 
