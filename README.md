@@ -21,5 +21,5 @@ Computer Scientist | Software Developer | Fellow @ArewaDS & Brainstorm IH
 
 <a href="http://www.github.com/AlsayyuNamaaji1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlsayyuNamaaji1&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AlsayyuNamaaji1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsayyuNamaaji1&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>der Sections
+<a href="https://github.com/AlsayyuNamaaji1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlsayyuNamaaji1&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
  
